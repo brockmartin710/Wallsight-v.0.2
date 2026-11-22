@@ -1,0 +1,12 @@
+build/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+.DS_Store
+Payload/
+*.ipa
+# Do NOT accidentally upload confidential construction document sets.
+OriginalPrints/
+PrivateDrawings/
+*.pdf

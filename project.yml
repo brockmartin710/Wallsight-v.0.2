@@ -1,0 +1,36 @@
+name: WallSight
+options:
+  bundleIdPrefix: com.wallsight
+  deploymentTarget:
+    iOS: '17.0'
+targets:
+  WallSight:
+    type: application
+    platform: iOS
+    sources:
+      - path: WallSightApp.swift
+      - path: ContentView.swift
+      - path: HouseScanView.swift
+      - path: ContinuousScannerView.swift
+      - path: BuildingModel.swift
+      - path: BuildingSceneFactory.swift
+      - path: BuildingViewerView.swift
+      - path: BlueprintARView.swift
+      - path: ProjectStore.swift
+      - path: DrawingLibraryView.swift
+      - path: ModelEditorView.swift
+      - path: Resources/HeathChickFilA_DRAFT.json
+        buildPhase: resources
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.wallsight.app
+        PRODUCT_NAME: WallSight
+        SWIFT_VERSION: '5.0'
+        TARGETED_DEVICE_FAMILY: '1'
+        IPHONEOS_DEPLOYMENT_TARGET: '17.0'
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_NSCameraUsageDescription: 'WallSight needs the camera for its AR blueprint preview and LiDAR room scanning.'
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        CODE_SIGN_STYLE: Manual
+        SUPPORTS_MACCATALYST: NO

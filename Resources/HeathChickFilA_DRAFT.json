@@ -1,0 +1,1257 @@
+{
+  "id": "heath-06213-draft",
+  "name": "Chick-fil-A — Heath OH (A-201 draft)",
+  "sourceSheet": "A-201",
+  "revisionDate": "2026-04-24",
+  "widthMeters": 37.6428,
+  "depthMeters": 14.5288,
+  "description": "Manually traced DRAFT from A-201 with measured overall dimensions; room wall endpoints, ceiling heights and all electrical device locations unverified. Not for construction.",
+  "modelVerified": false,
+  "walls": [
+    {
+      "id": "EXT-N-01",
+      "tag": "W6",
+      "start": {
+        "x": 0.0,
+        "z": 0.0
+      },
+      "end": {
+        "x": 11.5824,
+        "z": 0.0
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-N-02",
+      "tag": "W6",
+      "start": {
+        "x": 11.5824,
+        "z": 0.0
+      },
+      "end": {
+        "x": 11.5824,
+        "z": -1.2192
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-N-03",
+      "tag": "W6",
+      "start": {
+        "x": 11.5824,
+        "z": -1.2192
+      },
+      "end": {
+        "x": 18.288,
+        "z": -1.2192
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-N-04",
+      "tag": "W6",
+      "start": {
+        "x": 18.288,
+        "z": -1.2192
+      },
+      "end": {
+        "x": 18.288,
+        "z": 0.0
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-N-05",
+      "tag": "W6",
+      "start": {
+        "x": 18.288,
+        "z": 0.0
+      },
+      "end": {
+        "x": 37.6428,
+        "z": 0.0
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-E-01",
+      "tag": "W6",
+      "start": {
+        "x": 37.6428,
+        "z": 0.0
+      },
+      "end": {
+        "x": 37.6428,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-S-01",
+      "tag": "W6",
+      "start": {
+        "x": 37.6428,
+        "z": 12.7406
+      },
+      "end": {
+        "x": 29.1084,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-S-02",
+      "tag": "W6",
+      "start": {
+        "x": 29.1084,
+        "z": 12.7406
+      },
+      "end": {
+        "x": 29.1084,
+        "z": 13.4112
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-S-03",
+      "tag": "W6",
+      "start": {
+        "x": 29.1084,
+        "z": 13.4112
+      },
+      "end": {
+        "x": 18.288,
+        "z": 13.4112
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-S-04",
+      "tag": "W6",
+      "start": {
+        "x": 18.288,
+        "z": 13.4112
+      },
+      "end": {
+        "x": 18.288,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-S-05",
+      "tag": "W6",
+      "start": {
+        "x": 18.288,
+        "z": 12.7406
+      },
+      "end": {
+        "x": 10.0584,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-S-06",
+      "tag": "W6",
+      "start": {
+        "x": 10.0584,
+        "z": 12.7406
+      },
+      "end": {
+        "x": 7.62,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-S-07",
+      "tag": "W6",
+      "start": {
+        "x": 7.62,
+        "z": 12.7406
+      },
+      "end": {
+        "x": 0.0,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-W-01",
+      "tag": "W6",
+      "start": {
+        "x": 0.0,
+        "z": 0.0
+      },
+      "end": {
+        "x": 0.0,
+        "z": 5.0597
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "EXT-W-02",
+      "tag": "W6",
+      "start": {
+        "x": 0.0,
+        "z": 5.0597
+      },
+      "end": {
+        "x": 0.0,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "PLAY-N",
+      "tag": "W6",
+      "start": {
+        "x": 0.0,
+        "z": 5.0597
+      },
+      "end": {
+        "x": 4.9378,
+        "z": 5.0597
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "PLAY-E",
+      "tag": "W6",
+      "start": {
+        "x": 4.9378,
+        "z": 5.0597
+      },
+      "end": {
+        "x": 4.9378,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "MFA-W",
+      "tag": "W6",
+      "start": {
+        "x": 11.5824,
+        "z": 0.0
+      },
+      "end": {
+        "x": 11.5824,
+        "z": 4.3586
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "MFA-S",
+      "tag": "W6",
+      "start": {
+        "x": 11.5824,
+        "z": 4.3586
+      },
+      "end": {
+        "x": 18.0442,
+        "z": 4.3586
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "MFA-E",
+      "tag": "W8",
+      "start": {
+        "x": 18.0442,
+        "z": -1.2192
+      },
+      "end": {
+        "x": 18.0442,
+        "z": 8.6563
+      },
+      "thicknessMeters": 0.1841,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "SERVING-S-01",
+      "tag": "W6",
+      "start": {
+        "x": 11.5824,
+        "z": 8.6563
+      },
+      "end": {
+        "x": 18.0442,
+        "z": 8.6563
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "SERVING-W",
+      "tag": "W6",
+      "start": {
+        "x": 11.5824,
+        "z": 4.3586
+      },
+      "end": {
+        "x": 11.5824,
+        "z": 8.6563
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "SERVING-COUNTER",
+      "tag": "W6",
+      "start": {
+        "x": 12.0396,
+        "z": 7.3152
+      },
+      "end": {
+        "x": 17.3736,
+        "z": 7.3152
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "KITCHEN-S-01",
+      "tag": "W8",
+      "start": {
+        "x": 18.288,
+        "z": 8.8087
+      },
+      "end": {
+        "x": 25.2984,
+        "z": 8.8087
+      },
+      "thicknessMeters": 0.1841,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "KITCHEN-S-02",
+      "tag": "W8",
+      "start": {
+        "x": 25.2984,
+        "z": 8.8087
+      },
+      "end": {
+        "x": 30.6324,
+        "z": 8.8087
+      },
+      "thicknessMeters": 0.1841,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "KITCHEN-E",
+      "tag": "W6",
+      "start": {
+        "x": 32.766,
+        "z": 0.0
+      },
+      "end": {
+        "x": 32.766,
+        "z": 6.858
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "WIF-W",
+      "tag": "W6",
+      "start": {
+        "x": 32.766,
+        "z": 0.0
+      },
+      "end": {
+        "x": 32.766,
+        "z": 2.1336
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "WIC-W",
+      "tag": "W6",
+      "start": {
+        "x": 33.528,
+        "z": 2.1336
+      },
+      "end": {
+        "x": 33.528,
+        "z": 5.9131
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "WIF-WIC-DIV",
+      "tag": "M6",
+      "start": {
+        "x": 32.766,
+        "z": 2.1336
+      },
+      "end": {
+        "x": 35.6616,
+        "z": 2.1336
+      },
+      "thicknessMeters": 0.1524,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "WIF-E",
+      "tag": "W6",
+      "start": {
+        "x": 35.6616,
+        "z": 0.0
+      },
+      "end": {
+        "x": 35.6616,
+        "z": 2.1336
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "WIC-E",
+      "tag": "W6",
+      "start": {
+        "x": 35.6616,
+        "z": 2.1336
+      },
+      "end": {
+        "x": 35.6616,
+        "z": 5.9131
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "WIC-S",
+      "tag": "W6",
+      "start": {
+        "x": 33.528,
+        "z": 5.9131
+      },
+      "end": {
+        "x": 35.6616,
+        "z": 5.9131
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "RISER-E",
+      "tag": "W6",
+      "start": {
+        "x": 37.6428,
+        "z": 0.0
+      },
+      "end": {
+        "x": 37.6428,
+        "z": 2.1946
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "RISER-S",
+      "tag": "W6",
+      "start": {
+        "x": 35.6616,
+        "z": 2.1946
+      },
+      "end": {
+        "x": 37.6428,
+        "z": 2.1946
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "REST-W",
+      "tag": "W6",
+      "start": {
+        "x": 18.288,
+        "z": 8.8087
+      },
+      "end": {
+        "x": 18.288,
+        "z": 11.7653
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "MEN-WOMEN",
+      "tag": "W6",
+      "start": {
+        "x": 24.6278,
+        "z": 8.8087
+      },
+      "end": {
+        "x": 24.6278,
+        "z": 11.7653
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "WOMEN-E",
+      "tag": "W6",
+      "start": {
+        "x": 29.1084,
+        "z": 8.8087
+      },
+      "end": {
+        "x": 29.1084,
+        "z": 13.1064
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "REST-S-MEN",
+      "tag": "W6",
+      "start": {
+        "x": 18.288,
+        "z": 11.7653
+      },
+      "end": {
+        "x": 20.7264,
+        "z": 11.7653
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "REST-S-MEN-2",
+      "tag": "W6",
+      "start": {
+        "x": 21.5189,
+        "z": 11.7653
+      },
+      "end": {
+        "x": 24.6278,
+        "z": 11.7653
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "REST-S-WOMEN",
+      "tag": "W6",
+      "start": {
+        "x": 24.6278,
+        "z": 11.7653
+      },
+      "end": {
+        "x": 26.2128,
+        "z": 11.7653
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "REST-S-WOMEN-2",
+      "tag": "W6",
+      "start": {
+        "x": 26.9748,
+        "z": 11.7653
+      },
+      "end": {
+        "x": 29.1084,
+        "z": 11.7653
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "SERVICE-NE",
+      "tag": "W8",
+      "start": {
+        "x": 30.6324,
+        "z": 8.8087
+      },
+      "end": {
+        "x": 37.6428,
+        "z": 8.8087
+      },
+      "thicknessMeters": 0.1841,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "SERVICE-W",
+      "tag": "W6",
+      "start": {
+        "x": 30.6324,
+        "z": 8.8087
+      },
+      "end": {
+        "x": 30.6324,
+        "z": 10.729
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "OFFICE-W",
+      "tag": "W6",
+      "start": {
+        "x": 30.7848,
+        "z": 8.8392
+      },
+      "end": {
+        "x": 30.7848,
+        "z": 10.668
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "OFFICE-N",
+      "tag": "W6",
+      "start": {
+        "x": 30.7848,
+        "z": 8.8392
+      },
+      "end": {
+        "x": 34.0462,
+        "z": 8.8392
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "OFFICE-E",
+      "tag": "W6",
+      "start": {
+        "x": 34.0462,
+        "z": 8.8392
+      },
+      "end": {
+        "x": 34.0462,
+        "z": 10.668
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "OFFICE-S",
+      "tag": "W6",
+      "start": {
+        "x": 30.7848,
+        "z": 10.668
+      },
+      "end": {
+        "x": 34.0462,
+        "z": 10.668
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "FLEX-N",
+      "tag": "W6",
+      "start": {
+        "x": 29.1084,
+        "z": 10.668
+      },
+      "end": {
+        "x": 30.7848,
+        "z": 10.668
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "FLEX-E",
+      "tag": "W6",
+      "start": {
+        "x": 31.8516,
+        "z": 10.668
+      },
+      "end": {
+        "x": 31.8516,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "TECH-E",
+      "tag": "W6",
+      "start": {
+        "x": 34.29,
+        "z": 10.668
+      },
+      "end": {
+        "x": 34.29,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "TEAM-N",
+      "tag": "W6",
+      "start": {
+        "x": 34.29,
+        "z": 10.668
+      },
+      "end": {
+        "x": 37.6428,
+        "z": 10.668
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "TEAM-W",
+      "tag": "W6",
+      "start": {
+        "x": 34.29,
+        "z": 10.668
+      },
+      "end": {
+        "x": 34.29,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "ENTRY-W",
+      "tag": "W6",
+      "start": {
+        "x": 7.1933,
+        "z": 10.3632
+      },
+      "end": {
+        "x": 7.1933,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "ENTRY-E",
+      "tag": "W6",
+      "start": {
+        "x": 10.0584,
+        "z": 10.3632
+      },
+      "end": {
+        "x": 10.0584,
+        "z": 12.7406
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "ENTRY-N-L",
+      "tag": "W6",
+      "start": {
+        "x": 7.1933,
+        "z": 10.3632
+      },
+      "end": {
+        "x": 8.0467,
+        "z": 10.3632
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    },
+    {
+      "id": "ENTRY-N-R",
+      "tag": "W6",
+      "start": {
+        "x": 9.0221,
+        "z": 10.3632
+      },
+      "end": {
+        "x": 10.0584,
+        "z": 10.3632
+      },
+      "thicknessMeters": 0.1397,
+      "heightMeters": 3.048,
+      "sourceSheet": "A-201",
+      "verified": false,
+      "note": "Approximate visual trace; needs dimension check"
+    }
+  ],
+  "devices": [
+    {
+      "id": "DEV-01",
+      "kind": "receptacle",
+      "label": "Dining receptacle (example)",
+      "x": 3.6576,
+      "y": 0.4572,
+      "z": 0.1524,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-02",
+      "kind": "receptacle",
+      "label": "Dining receptacle (example)",
+      "x": 7.62,
+      "y": 0.4572,
+      "z": 0.1524,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-03",
+      "kind": "receptacle",
+      "label": "Serving receptacle (example)",
+      "x": 14.3256,
+      "y": 0.4572,
+      "z": 8.5344,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-04",
+      "kind": "receptacle",
+      "label": "Kitchen receptacle (example)",
+      "x": 20.7264,
+      "y": 0.4572,
+      "z": 8.7478,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-05",
+      "kind": "receptacle",
+      "label": "Kitchen receptacle (example)",
+      "x": 26.5176,
+      "y": 0.4572,
+      "z": 8.7478,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-06",
+      "kind": "switch",
+      "label": "Office switch (example)",
+      "x": 31.0896,
+      "y": 1.2192,
+      "z": 10.6985,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-07",
+      "kind": "receptacle",
+      "label": "Office receptacle (example)",
+      "x": 32.004,
+      "y": 0.4572,
+      "z": 10.607,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-08",
+      "kind": "receptacle",
+      "label": "Team member receptacle (example)",
+      "x": 35.6616,
+      "y": 0.4572,
+      "z": 12.6187,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-09",
+      "kind": "panel",
+      "label": "Panel equipment zone (approximate)",
+      "x": 36.576,
+      "y": 1.6764,
+      "z": 8.7478,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-10",
+      "kind": "receptacle",
+      "label": "Tech closet receptacle (example)",
+      "x": 32.9184,
+      "y": 0.4572,
+      "z": 12.6187,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-11",
+      "kind": "lowVoltage",
+      "label": "Tech/data outlet (example)",
+      "x": 32.9184,
+      "y": 0.4572,
+      "z": 12.6187,
+      "sourceSheet": "E-801",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-12",
+      "kind": "lowVoltage",
+      "label": "Office communications (example)",
+      "x": 32.004,
+      "y": 0.4572,
+      "z": 10.6985,
+      "sourceSheet": "E-801",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-13",
+      "kind": "lowVoltage",
+      "label": "Dining WiFi access point (example)",
+      "x": 7.0104,
+      "y": 2.4384,
+      "z": 4.2672,
+      "sourceSheet": "E-801",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-14",
+      "kind": "lowVoltage",
+      "label": "Kitchen WiFi access point (example)",
+      "x": 24.9936,
+      "y": 2.4384,
+      "z": 4.2672,
+      "sourceSheet": "E-801",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-15",
+      "kind": "receptacle",
+      "label": "Play area receptacle (example)",
+      "x": 0.3048,
+      "y": 0.4572,
+      "z": 9.7536,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-16",
+      "kind": "switch",
+      "label": "Entry switch (example)",
+      "x": 10.3632,
+      "y": 1.2192,
+      "z": 11.5824,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    },
+    {
+      "id": "DEV-17",
+      "kind": "receptacle",
+      "label": "Flex-space receptacle (example)",
+      "x": 30.48,
+      "y": 0.4572,
+      "z": 12.6187,
+      "sourceSheet": "E-104",
+      "circuit": "Unverified",
+      "verified": false,
+      "note": "Illustrative placement in the room shown by the drawings; exact coordinate and height NOT verified"
+    }
+  ],
+  "rooms": [
+    {
+      "name": "Dining",
+      "x": 5.7912,
+      "z": 3.3528
+    },
+    {
+      "name": "Play",
+      "x": 2.1336,
+      "z": 9.144
+    },
+    {
+      "name": "Meal fulfillment",
+      "x": 14.3256,
+      "z": 1.8288
+    },
+    {
+      "name": "Serving",
+      "x": 14.3256,
+      "z": 7.3152
+    },
+    {
+      "name": "Queue",
+      "x": 14.6304,
+      "z": 10.9728
+    },
+    {
+      "name": "Entry vestibule",
+      "x": 8.6868,
+      "z": 11.5824
+    },
+    {
+      "name": "Kitchen",
+      "x": 24.6888,
+      "z": 4.2672
+    },
+    {
+      "name": "WIF",
+      "x": 34.4424,
+      "z": 0.9144
+    },
+    {
+      "name": "WIC",
+      "x": 34.4424,
+      "z": 4.2672
+    },
+    {
+      "name": "Service",
+      "x": 35.3568,
+      "z": 7.3152
+    },
+    {
+      "name": "Men",
+      "x": 21.336,
+      "z": 10.0584
+    },
+    {
+      "name": "Women",
+      "x": 26.8224,
+      "z": 10.0584
+    },
+    {
+      "name": "RR vestibule",
+      "x": 23.7744,
+      "z": 12.6492
+    },
+    {
+      "name": "Office",
+      "x": 32.3088,
+      "z": 9.7536
+    },
+    {
+      "name": "Flex space",
+      "x": 30.48,
+      "z": 11.5824
+    },
+    {
+      "name": "Tech closet",
+      "x": 33.0708,
+      "z": 11.5824
+    },
+    {
+      "name": "Team member",
+      "x": 35.9664,
+      "z": 11.5824
+    }
+  ]
+}
